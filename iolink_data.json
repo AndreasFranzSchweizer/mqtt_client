@@ -1,0 +1,14 @@
+{
+    "code": "event",
+    "cid": 2,
+    "adr": "/iolink/data",
+    "data": {
+        "eventno": "1164",
+        "srcurl": "00-02-01-64-60-60/timer[1]/counter/datachanged",
+        "payload": {
+            "/timer[1]/counter": {"code": 200, "data": 1164},
+            "/iolinkmaster/port[1]/iolinkdevice/pdin": {"code": 200, "data": "010BFF00"},
+            "/iolinkmaster/port[2]/iolinkdevice/pdin": {"code": 200, "data": "0000"}
+        }
+    }
+}
